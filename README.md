@@ -4,17 +4,19 @@
 ```
 https://www.docker.com/products/docker-desktop/
 ```
+And Click on run as administrator.
 
 ## Get started
 - Clone a sample git repository using the below command or use your project for the demo:
 
 ```
-git clone https://github.com/docker/getting-started-app/.git
+git clone https://github.com/kaveriusa/Docker.git
 ```
 
 - cd into the directory
 ```
-cd getting-started-app/
+
+cd Docker/
 ```
 - Create an empty file with the name Dockerfile
 ```
